@@ -1,0 +1,10 @@
+{
+    "service": "gmail",
+    "auth": {
+      "type": "OAuth2",
+      "user": "estiven@gmail.com",
+      "clientId": "238896733999-2m3gjsoobhprl9i1m4nr2kri4h6oqvrl.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//04N0NbkZJ4EsYCgYIARAAGAQSNwF-L9Ir0IxGyTul75WxCtAiXSAbyBE7aC-wvhrpVETlavLnCALEdhtRYk-B5hk8FtWBOEjDWnE"
+    }
+  }
